@@ -7,4 +7,5 @@ else
 echo "It is a two digit number"
 else
 echo "it is not a number"
+echo "this is an added statement"
 fi
